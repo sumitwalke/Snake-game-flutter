@@ -12,6 +12,6 @@ class SnakePixel extends StatelessWidget {
                   borderRadius: BorderRadius.circular(7),  
                 ),
                 // child: Text(index.toString(),style: const TextStyle(color: Colors.white),),
-              ),);
+              ));
   }
 }
